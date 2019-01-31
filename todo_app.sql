@@ -29,7 +29,7 @@ VALUES
   ('Study SQL', 'Complete this exercise'),
   ('Study PostgreSQL', 'Read all the documentation');
 
-SELECT * FROM tasks WHERE completed_at IS NULL;
+SELECT title FROM tasks WHERE completed_at IS NULL;
 
 UPDATE tasks
 SET completed_at = NOW()
