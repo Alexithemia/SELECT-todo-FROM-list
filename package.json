@@ -1,0 +1,19 @@
+{
+  "name": "select-todo-from-list",
+  "version": "1.0.0",
+  "description": "### SQL CRUD Exercise in PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexithemia/SELECT-todo-FROM-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexithemia/SELECT-todo-FROM-list/issues"
+  },
+  "homepage": "https://github.com/Alexithemia/SELECT-todo-FROM-list#readme"
+}
